@@ -26,6 +26,8 @@ Install all dependencies, change the settings.py file (you must specify the MYSQ
 make the migration as follows:
 1. python manage.py makemigrations
 2. python manage.py migrate
+   
+Also you need redis server running.
 
 To start the frontend, you need a [Vite](https://vitejs.dev/) builder, [use these instructions if necessary](https://vitejs.dev/guide/).
 
