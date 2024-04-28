@@ -1,5 +1,7 @@
 # Skin Trade App
 ### Web app build with django and react.
+
+![image](https://github.com/Orest-Maiatskyi/SkinTradeApp/assets/64983071/32854e73-f8ff-44bd-b34d-067349d27e02)
 ___
 
 This web application was made to implement the basic functions of sites 
@@ -12,6 +14,9 @@ selling skins (<b>in this case, only skins from CSGO</b>).
 [about which below](#about--trading-stub-)</b>).
 4. Fake skin sale (<b>The trading system is not made, a stub is used, 
 [about which below](#about--trading-stub-)</b>).
+
+![image](https://github.com/Orest-Maiatskyi/SkinTradeApp/assets/64983071/eb5306ac-8eaf-4f76-92d0-8256dcb1309f)
+![image](https://github.com/Orest-Maiatskyi/SkinTradeApp/assets/64983071/ee08a135-b6fa-4748-a503-8744cbe4f32b)
 
 ### How To Run ?
 ___
