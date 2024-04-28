@@ -1,0 +1,19 @@
+
+.item-block {
+    width: 150px;
+    height: 150px;
+    margin: 20px;
+    background-color: #31363F;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.item-block:hover {
+    background-color: #76ABAE;
+}
+
+.item-block img {
+    width: 150px;
+    height: 150px;
+    display: block;
+}

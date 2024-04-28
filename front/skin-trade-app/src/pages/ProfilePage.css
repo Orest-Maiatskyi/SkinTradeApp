@@ -1,0 +1,11 @@
+
+.items-cont {
+    margin-top: 40px !important;
+    width: 80%;
+    height: calc(100vh - 200px);
+    margin: 0 auto;
+    min-height: 300px;
+    background: #222831;
+    border-radius: 5px;
+    display: flex;
+}
